@@ -1,0 +1,7 @@
+BLUE  	  GREEN
+5
+SQUA 	 0 	 501  	 311  	 BLUE 	 GREEN
+TRIANG 	1  	 994 	  221 	 1080 	 392 	 1344  	 230BLUE	  GREEN
+CIRC  	  2  	 787  	  352 	   124  	 BLUE 	 GREEN
+SQUA 	 3 	 158  	 316  	 BLUE 	 GREEN
+ RECT 	 4 	216  	 168  	 331  	 252  	 11584  	 BLUE 	 GREEN

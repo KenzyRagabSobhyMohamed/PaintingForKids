@@ -1,0 +1,7 @@
+BLUE  	  GREEN
+5
+ RECT 	 0 	656  	 272  	 840  	 361  	 18489  	 BLUE 	 GREEN
+SQUA 	 1 	 1282  	 321  	 BLUE 	 GREEN
+CIRC  	  2  	 217  	  339 	   87  	 BLUE 	 GREEN
+TRIANG 	3  	 384 	  208 	 442 	 359 	 547  	 200BLUE	  GREEN
+HEX  	 4 	 981 	  185  	 BLUE 	GREEN

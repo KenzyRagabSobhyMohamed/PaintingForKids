@@ -1,0 +1,8 @@
+SQUA 	 0 	 352  	 355  	 BLUE 	 GREEN
+ RECT 	 1 	688  	 181  	 798  	 240  	 11059  	 BLUE 	 GREEN
+CIRC  	  2  	 1135  	  315 	   60  	 BLUE 	 GREEN
+TRIANG 	3  	 638 	  390 	 758 	 335 	 758  	 427BLUE	  GREEN
+HEX  	 4 	 1424 	  372  	 BLUE 	GREEN
+ RECT 	 1 	688  	 181  	 798  	 240  	 11059  	 BLUE 	 BLACK
+SQUA 	 0 	 352  	 355  	 BLUE 	 ORANGE
+ RECT 	 1 	688  	 181  	 798  	 240  	 11059  	 BLUE 	 BLACK

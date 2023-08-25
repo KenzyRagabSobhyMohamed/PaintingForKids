@@ -1,0 +1,4 @@
+YELLOW  	  GREEN
+2
+CIRC  	  0  	 184  	  24 	   555  	 YELLOW 	 GREEN
+TRIANG 	1  	 1120 	  351 	 929 	 193 	 1077  	 189YELLOW	  RED
